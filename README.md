@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img src = "https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
   <img src = "https://img.shields.io/badge/-Flutter-%2338B2AC?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
   <img src = "https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium">
-  <img src = "https://img.shields.io/badge/chrome extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="chromeextension">
+  <img src = "https://img.shields.io/badge/chrome extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="chromeextension"/>
   
 - <h4> tools </h4>
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
@@ -62,16 +62,16 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img src = "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo"/>
   <img src = "https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="googlecloud" />
   <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src= "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="androidstudio>
+  <img src= "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="androidstudio" />
 
 <br><br>
 
 ## github stats
-  [![Anurag's GitHub stats](https://github-readme-stats-git-master-thepikachus-projects.vercel.app/api?username=ThePikachu&theme=tokyonight&show_icons=true&locale=en)](https://github.com/ThePikachu/github-readme-stats)<span>&nbsp;&nbsp;</span>
+  [![Samuel's GitHub stats](https://github-readme-stats-git-master-thepikachus-projects.vercel.app/api?username=ThePikachu&theme=tokyonight&show_icons=true&locale=en)](https://github.com/ThePikachu/github-readme-stats)<span>&nbsp;&nbsp;</span>
   [![Top Langs](https://github-readme-stats-git-master-thepikachus-projects.vercel.app/api/top-langs/?username=ThePikachu&theme=tokyonight&layout=compact)](https://github.com/ThePikachu/github-readme-stats)
 
 ## contact me 
-  <a href="https://linkedin.com/in/samuelchuaws"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/-samuelchuaws-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:schua1234@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/-schua1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/schua1234"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/-@schua1234-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+  <a href="https://linkedin.com/in/samuelchuaws"><img alt="Linkedin" title="Samuel's Linkedin" src="https://img.shields.io/badge/-samuelchuaws-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:schua1234@gmail.com"><img alt="Gmail" title="Samuel's Gmail" src="https://img.shields.io/badge/-schua1234@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/schua1234"><img alt="Telegram" title="Samuel's Telegram" src="https://img.shields.io/badge/-@schua1234-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
