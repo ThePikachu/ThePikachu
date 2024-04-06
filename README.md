@@ -64,8 +64,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src= "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="androidstudio" />
 
-<br><br>
-
 ## github stats
   [![Samuel's GitHub stats](https://github-readme-stats-git-master-thepikachus-projects.vercel.app/api?username=ThePikachu&theme=tokyonight&show_icons=true&locale=en)](https://github.com/ThePikachu/github-readme-stats)<span>&nbsp;&nbsp;</span>
   [![Top Langs](https://github-readme-stats-git-master-thepikachus-projects.vercel.app/api/top-langs/?username=ThePikachu&theme=tokyonight&layout=compact)](https://github.com/ThePikachu/github-readme-stats)
